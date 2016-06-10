@@ -3,6 +3,8 @@
 # compiled output
 /dist
 /tmp
+/typings
+/deploy
 
 # dependencies
 /node_modules
@@ -23,6 +25,7 @@
 /.idea
 
 # misc
+.DS_Store
 /.sass-cache
 /connect.lock
 /coverage/*
